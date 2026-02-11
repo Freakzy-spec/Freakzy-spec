@@ -12,3 +12,10 @@ Saya aktif mengerjakan proyek berbasis Python, seperti deteksi kendaraan menggun
 
 
 Jika kamu tertarik untuk berdiskusi atau berkolaborasi seputar teknologi AI, silakan sapa saya di [LinkedIn](https://www.linkedin.com/in/gihan-dimas-ardiyan-2182283a6/) ya!
+
+<p align="left">
+<a href="https://github.com/freakzy-spec">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
