@@ -1,16 +1,14 @@
-## Hi there 👋
+Halo semua!
+Perkenalkan nama saya Gihan.
 
-<!--
-**Freakzy-spec/Freakzy-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Saya seorang mahasiswa Teknik Elektro yang memiliki ketertarikan mendalam di bidang Artificial Intelligence, khususnya Computer Vision dan Edge AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Saat ini, saya sedang menempuh pembelajaran sebagai AI Engineer di DBS Foundation x Dicoding Coding Camp 2026.
+
+
+Saya aktif mengerjakan proyek berbasis Python, seperti deteksi kendaraan menggunakan YOLOv8 dan pengembangan interactive gesture-based tools menggunakan OpenCV.
+
+
+Jika kamu tertarik untuk berdiskusi atau berkolaborasi seputar teknologi AI, silakan sapa saya di [LinkedIn](https://www.linkedin.com/in/gihan-dimas-ardiyan-2182283a6/) ya!
